@@ -20,7 +20,7 @@ function Header() {
           </div>
           <div
             className="col pt-3 pb-3 d-flex justify-content-center"
-            style={{ minWidth: 250 }}
+            style={{ minWidth: 280 }}
           >
             <div className="input-group">
               <div
@@ -31,7 +31,7 @@ function Header() {
               >
                 <select
                   className="form-select form-select-sm shadow-none bg-light border-0"
-                  style={{ fontSize: 12 }}
+                  style={{ fontSize: 13 }}
                 >
                   <option index>Categories</option>
                   <option>One</option>
@@ -43,20 +43,21 @@ function Header() {
               <input
                 style={{
                   border: `1px solid ${BUTTON_BACKGROUND_COLOR}`,
-                  fontSize: 12,
+                  fontSize: 13,
                 }}
                 type="text"
                 className="form-control"
                 placeholder="Search essentials, groceries and more..."
               />
               <button
-                className="input-group-text shadow-none px-4 btn-dard"
+                className="input-group-text shadow-none"
                 style={{
                   backgroundColor: BUTTON_BACKGROUND_COLOR,
                   border: `1px solid ${BUTTON_BACKGROUND_COLOR}`,
+                  width: 40,
                 }}
               >
-                <img src={search} alt="search" />
+                <img src={search} alt="search" style={{ height: "80%" }} />
               </button>
             </div>
           </div>
