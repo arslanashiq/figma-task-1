@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6cf9db01.css",
+    "main.js": "/static/js/main.1880092d.js",
+    "static/js/787.b531848e.chunk.js": "/static/js/787.b531848e.chunk.js",
+    "static/media/iphone1.png": "/static/media/iphone1.7d0ff8ec0f5a727e7237.png",
+    "static/media/product1.png": "/static/media/product1.94f48058453c85fec15e.png",
+    "static/media/product3.png": "/static/media/product3.9d0a9fcd5c61376a3e3b.png",
+    "static/media/product2.png": "/static/media/product2.7bc6a304e8f1e450f62a.png",
+    "static/media/product4.png": "/static/media/product4.3b6ea99450235666c5da.png",
+    "static/media/product5.png": "/static/media/product5.d0a82faeb036f7851ecf.png",
+    "static/media/payment-methods.png": "/static/media/payment-methods.102d5cc02434b289f7bd.png",
+    "static/media/iphone3.png": "/static/media/iphone3.e4ea20d21bf180006038.png",
+    "index.html": "/index.html",
+    "main.6cf9db01.css.map": "/static/css/main.6cf9db01.css.map",
+    "main.1880092d.js.map": "/static/js/main.1880092d.js.map",
+    "787.b531848e.chunk.js.map": "/static/js/787.b531848e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6cf9db01.css",
+    "static/js/main.1880092d.js"
+  ]
+}
